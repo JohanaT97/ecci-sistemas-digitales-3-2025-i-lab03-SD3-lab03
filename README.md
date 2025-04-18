@@ -1,7 +1,9 @@
 # Lab03: Visualización de Datos en Raspberry Pi Zero W
 
 ## Integrantes
-
+- [David Santiago Laiton Gutierrez](https://github.com/dslaitong)
+- [Edgar Giovanni Neira Lugo](https://github.com/Gioneira)
+- [Johana Stephany Toro Echeverria](https://github.com/JohanaT97)
 
 ## Documentación
 
